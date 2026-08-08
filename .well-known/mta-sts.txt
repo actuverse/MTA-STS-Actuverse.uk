@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mx1.your_domain.tld
-mx: mx2.your_domain.tld
+mx: *.registrar-servers.com
 max_age: 1209600
